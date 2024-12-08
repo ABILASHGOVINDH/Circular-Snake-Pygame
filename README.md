@@ -1,4 +1,5 @@
-Circular Snake Game in Pygame 🐍
+Circular Snake Gamein Pygame 🐍
+
 A fun and interactive Circular Snake Game built using the Pygame library. The game features custom sound effects, a circular snake design, and a scoring system. Collect food, grow your snake, and avoid colliding with yourself!
 
 Features:
